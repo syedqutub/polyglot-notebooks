@@ -2,7 +2,7 @@
 
 ### Introduction
 
-A Polyglot notebook is a Jupyter notebook that allows you to use multiple programming languages like Python,JS,C#,F#,SQL etc with cross-communication. For more details checkout my article on linkedin [here](https://www.linkedin.com/pulse/net-python-js-jupyter-hello-polyglot-notebooks-syed-qutub-uddin-khan/?published=t).
+A Polyglot notebook is a Jupyter notebook that allows you to use multiple programming languages like Python,JS,C#,F#,SQL etc with cross-communication. For more details checkout my article on linkedin [here](https://www.linkedin.com/pulse/net-python-js-jupyter-hello-polyglot-notebooks-syed-qutub-uddin-khan).
 
 ### Prerequisites
 In order to use this notebook you will need
